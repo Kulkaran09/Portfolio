@@ -13,7 +13,7 @@ Welcome to my portfolio! Below you'll find details about my background, skills, 
 - **Email**: [Kulkaransingh99@gmail.com](mailto:Kulkaransingh99@gmail.com)
 - **Phone**: +1 (825) 925-1712
 - **GitHub**: [GitHub Profile](https://github.com/Kulkaran09)
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/kulkaran-singh-a32206259)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kulkaran-singh-a32206259)
 
 ---
 
