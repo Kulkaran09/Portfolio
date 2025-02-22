@@ -1,4 +1,4 @@
-# **Kulkaran Singh's Portfolio**
+# **Kulkaran Singh**
 
 Welcome to my portfolio! Below you'll find details about my background, skills, experience, projects, and education.
 
