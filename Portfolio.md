@@ -54,7 +54,7 @@ Developed a machine learning model capable of classifying different types of gar
 **Technologies**: Power BI, SQL, Data Visualization  
 Created a dynamic **Power BI** dashboard to visualize and analyze sales trends and customer behavior. This tool helps in identifying key business opportunities and improving decision-making.
 
-![Sales and Customer Data Dashboard](Portfolio/Superstore Sales Dashboard.png)
+![Sales and Customer Data Dashboard](Superstore Sales Dashboard.png)
 
 ---
 
